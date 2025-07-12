@@ -1,2 +1,4 @@
 java -cp ".;LMSWithGUI/sqlite-jdbc-3.44.1.0.jar;LMSWithGUI/slf4j-api-2.0.17.jar;LMSWithGUI/slf4j-simple-2.0.17.jar" LMSWithGUI.LibraryGUI
-run this in this directory: cd C:\Users\Dhruv.i.raghav\OneDrive - Happiest Minds Technologies Limited\Desktop\LMS JAVA
+run this in this directory: cd your_path\LMS JAVA
+
+mkae sure that the db file is with LMS JAVA folder, not inside it

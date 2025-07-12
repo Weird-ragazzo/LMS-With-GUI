@@ -2,7 +2,7 @@
 
 A simple **Java Swing-based Library Management System** using **SQLite** as the backend database.
 
-> Developed by **Weird-ragazzo**
+> Developed by **Dhruv Raghav**
 
 ---
 
